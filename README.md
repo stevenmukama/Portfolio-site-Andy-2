@@ -1,4 +1,2 @@
-# Portfolio-site-Andy-2
+portfolio
 
-This is a clone of Andy Sterkowitz.com website 
-Reactjs and css
